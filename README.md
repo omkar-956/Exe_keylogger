@@ -1,4 +1,4 @@
-# PRODIGY_CS_04
+# KEYLOGGER_PROJECT
 # 🔐 Basic Keylogger
 
 This project implements a basic keylogger program using Python, Tkinter for the GUI, and the `pynput` library for capturing keyboard events. Please note the ethical considerations and permissions required for such projects.
